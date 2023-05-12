@@ -1,0 +1,22 @@
+{
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "default_locale": "en",
+  "description": "__MSG_extDesc__",
+  "homepage_url": "https://github.com/hunghm3/blanktab",
+  "icons": {
+    "16": "icons/16.png",
+    "24": "icons/24.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "64": "icons/64.png",
+    "128": "icons/128.png",
+    "256": "icons/256.png",
+    "512": "icons/512.png"
+  },
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+  "version": "1.0.0"
+}
